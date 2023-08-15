@@ -1,4 +1,9 @@
 * {
-    background-color: #000000;
+    background-color: #121212;
     color: white;
+}
+
+img {
+    width: 600;
+    height: auto;    
 }
