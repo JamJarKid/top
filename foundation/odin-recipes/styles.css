@@ -1,9 +1,11 @@
 * {
     background-color: #121212;
     color: white;
+    font-family: Helvetica;
 }
 
 img {
-    width: 600;
+    width: 600px;
     height: auto;    
 }
+

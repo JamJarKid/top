@@ -42,5 +42,6 @@ body {
 }
 
 .info {
+  flex-wrap: wrap;
   max-width: 200px;
 }
